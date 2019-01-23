@@ -90,7 +90,7 @@ Left         | Center        | Right
 
 ~~to be continue~~
 
-##reference:
+## reference:
 
 [.md即markdown文件的基本常用编写语法（图文并茂）](https://www.cnblogs.com/liugang-vip/p/6337580.html)
 
@@ -98,7 +98,7 @@ Left         | Center        | Right
 
 [md语法简单总结](https://www.jianshu.com/p/96ecaa2cc989)
 
-##tools:
+## tools:
 
 [在线 Markdown 编译器](http://tool.oschina.net/markdown)
 
