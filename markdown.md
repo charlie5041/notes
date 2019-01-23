@@ -90,12 +90,6 @@ Left         | Center        | Right
 
 ~~to be continue~~
 
-## color:
-
-<font color=red size=12>red</font>
-
-<font color=#00ffff size=9>null</font>
-
 ##reference:
 
 [.md即markdown文件的基本常用编写语法（图文并茂）](https://www.cnblogs.com/liugang-vip/p/6337580.html)
