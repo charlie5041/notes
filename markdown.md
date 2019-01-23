@@ -1,6 +1,6 @@
 # markdown study:#
 
-## `"*"`, `"+"`, `"-"` index in no numerical.##
+## `"*"`, `"+"`, `"-"` index in no numerical.
 
 * example1
 
@@ -8,7 +8,7 @@
 
 - example3
 
-## `1.`, `2.`, `3.`, ...: index for numerical.##
+## `1.`, `2.`, `3.`, ...: index for numerical.
 
 1. example1
 
@@ -16,12 +16,12 @@
 
     1. example2-1
 
-## ">": reference.##
+## ">": reference.
 
 > example1
 >> example2
 
-## `"*" * 3`, `"_" * 3`, `"-" * 3` : split line.##
+## `"*" * 3`, `"_" * 3`, `"-" * 3` : split line.
 
 example1
 
@@ -36,11 +36,11 @@ example3
 ___
 
 
-## tags:##
+## tags:
 
 <a href="#click-to-bottom">navigation</a>
 
-## code script:##
+## code script:
 
 
 * single column:
@@ -62,13 +62,13 @@ def print():
     print("Hello World!")
 ```
 
-## table:##
+## table:
 
 First Header | Second Header | Third Header
 :----------- | :-----------: | -----------:
 Left         | Center        | Right
 
-## format:##
+## format:
 
 + *em*
 
@@ -82,11 +82,11 @@ Left         | Center        | Right
 
 + ___em+st___
 
-## delete:##
+## delete:
 
 ~~to be continue~~
 
-## color:##
+## color:
 
  <label style="color:red">red</label>
 
@@ -94,11 +94,14 @@ Left         | Center        | Right
 
  <label style="color:blue">blue</label>
 
-## mathematics:##
+## mathematics:
 
 $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
-##[reference]:##
+$ \sum_{\forall i}{x_i^{2}} $
+
+
+##[reference]:
 
 [.md即markdown文件的基本常用编写语法（图文并茂）](https://www.cnblogs.com/liugang-vip/p/6337580.html)
 
@@ -106,7 +109,7 @@ $-b \pm \sqrt{b^2 - 4ac} \over 2a$
 
 [md语法简单总结](https://www.jianshu.com/p/96ecaa2cc989)
 
-##[tools]:##
+##[tools]:
 
 [在线 Markdown 编译器](http://tool.oschina.net/markdown)
 
