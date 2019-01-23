@@ -12,7 +12,7 @@
 
 1. example1
 
-1.example2
+1. example2
 
     1. example2-1
 
@@ -92,14 +92,11 @@ Left         | Center        | Right
 
 ## color:
 
- <label style="color:red">red</label>
+<font color=red size=12>red</font>
 
- <label style="color:green">green</label>
+<font color=#00ffff size=9>null</font>
 
- <label style="color:blue">blue</label>
-
-
-##[reference]:
+##reference:
 
 [.md即markdown文件的基本常用编写语法（图文并茂）](https://www.cnblogs.com/liugang-vip/p/6337580.html)
 
@@ -107,7 +104,7 @@ Left         | Center        | Right
 
 [md语法简单总结](https://www.jianshu.com/p/96ecaa2cc989)
 
-##[tools]:
+##tools:
 
 [在线 Markdown 编译器](http://tool.oschina.net/markdown)
 
