@@ -68,6 +68,10 @@ First Header | Second Header | Third Header
 :----------- | :-----------: | -----------:
 Left         | Center        | Right
 
+## task check:
+
+- [x] task1
+
 ## format:
 
 + *em*
@@ -93,21 +97,6 @@ Left         | Center        | Right
  <label style="color:green">green</label>
 
  <label style="color:blue">blue</label>
-
-## mathematics:
-
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
-formula1: $$n==x$$
-
-formula2: $$n!=x$$
-
-formula3: (m==y)
-
-formula4: [m!=y]
-
-formula5: \(k==z\)
-
-formula6: \[k!=z\]
 
 
 ##[reference]:
